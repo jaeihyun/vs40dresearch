@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 100;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream-thin1.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream-thin1.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream-thin1.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 200;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream2-ExtraLight.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream2-ExtraLight.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream2-ExtraLight.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 300;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream3-Light.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream3-Light.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream3-Light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 400;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream4-Regular.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream4-Regular.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream4-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 500;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream5-Medium.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream5-Medium.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream5-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 600;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream6-Bold.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream6-Bold.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream6-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 700;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream7-ExtraBold.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream7-ExtraBold.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream7-ExtraBold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 800;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream8-Heavy.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream8-Heavy.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream8-Heavy.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SCoreDream';
+  font-weight: 900;
+  font-style: normal;
+  src: url('https://cdn.jsdelivr.net/gh/jaeihyun/vs40dresearch@main/woff2/scoreDream9-Black.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream9-Black.woff2') format('woff2'),
+       url('/font/SCoreDream/scoreDream9-Black.woff') format('woff');
+  font-display: swap;
+}
